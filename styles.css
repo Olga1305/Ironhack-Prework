@@ -1,0 +1,232 @@
+html { 
+  font-family: sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+} 
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: rgb(83, 88, 98);
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 35px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  display: inline-block;
+  float: left;
+  padding: 0;
+  margin: 0 0 0 20px;
+}
+
+#header-top { 
+  background-color: rgb(32, 101, 136);
+  color: rgba(255,255,255,0.8);
+  padding-top: 10px;
+  height: 65px;
+  }
+
+#header-top a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.header-elements {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.header-elements li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#header-logo {
+  display: inline-block;
+  float: left;
+  padding: 0;
+  margin: 10px 0 0 20px;
+  height: 40px;
+}
+
+#bear-logo {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 10px 0 0 0;
+  height: 25px;
+}
+
+.search-query { 
+  background-color: rgb(31, 82, 111);
+  border-color: rgb(31, 82, 111);
+  width: 800px;
+  height: 25px;
+  } 
+
+.search-button { 
+  background-color: rgb(31, 82, 111);
+  border-color: rgb(31, 82, 111);
+  color: white;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  } 
+
+#header-bottom { 
+  background-color: rgb(32, 101, 136);
+  color: rgba(255,255,255,0.8);
+  background-image: url(http://dokukova.com/wp-content/uploads/2019/05/city-scape.svg) ;
+  background-size: cover;
+  margin: 0 auto;
+  height: 300px;
+  padding-top: 120px;
+  padding-left: 70px;
+  padding-right: 550px;
+  }
+
+.button { 
+  color: white;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  } 
+
+#sign-up-npm { 
+ background-color: rgb(240, 146, 51);
+ width: 180px;
+  } 
+
+#sign-up-orgs { 
+ background-color: rgb(203, 56, 55);
+ width: 180px;
+  } 
+
+#install-npm { 
+ background-color: rgb(49, 68, 88);
+ width: 140px;
+  } 
+
+section { 
+  margin: 0 auto;
+  height: 450px;
+  padding-top: 100px;
+  }
+
+#collab-section { 
+ background-color: rgb(39, 53, 71);
+ color: white;
+ padding-left: 70px;
+  } 
+
+#collab-img { 
+  width: 40%;
+  float: left;
+  position: absolute;
+  }
+
+#collab-text { 
+  float: right;
+  padding-right: 50px;
+  padding-left: 50%;
+  }
+
+#collab-text a { 
+  color: white;
+  text-decoration: none;
+  }
+
+#collab-text ul { 
+  position: relative;
+  left: 30px;
+  }
+
+#collab-text li { 
+  margin-bottom: 15px;
+  }
+
+#what-is-npm { 
+ background-image: url(http://dokukova.com/wp-content/uploads/2019/05/forklift.svg);
+ background-size: cover;
+ color: white;
+ padding-left: 70px;
+ position: relative;
+  } 
+
+#what-is-npm div{ 
+ padding-right: 60%;
+ position: absolute;
+  } 
+
+#what-can-you { 
+ background-color: white;
+ color: rgb(135, 145, 156);
+  } 
+
+#what-can-you h2 { 
+ color: rgb(83, 88, 98);
+  } 
+
+#what-can-you a { 
+ color: rgb(208, 74, 73);
+ text-decoration: none;
+  } 
+
+#what-can-you-heading { 
+ margin: 0 auto;
+ text-align: center;
+  } 
+
+.container {
+  margin: 0 auto;
+  padding: 30px 0;
+  width: 1200px;
+}
+
+.box {
+  float: left;
+  text-align: center;
+}
+
+.box-3 {
+  width: 30%;
+}
+
+.box-middle {
+  margin: 0 5%;
+}
+
